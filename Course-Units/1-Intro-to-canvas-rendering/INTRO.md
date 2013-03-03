@@ -1,2 +1,2 @@
-Intro to Canvas Rendering
-=========================
+Unit 01 - Intro to Canvas Rendering
+===================================
